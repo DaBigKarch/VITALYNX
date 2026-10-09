@@ -1,0 +1,22 @@
+
+# Secrets and environment
+.env
+.env.*
+!.env.example
+
+# Dependencies and local files
+vendor/
+node_modules/
+.DS_Store
+*.log
+
+# Secrets and environment
+.env
+.env.*
+!.env.example
+
+# Dependencies and local files
+vendor/
+node_modules/
+.DS_Store
+*.log
